@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/firas_kahlaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kahlaoui firas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/firas-kahlaoui-b0a031253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas kahlaoui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/firas-kahlaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas kahlaoui" height="30" width="40" /></a>
 <a href="https://fb.com/firas.kahlaoui.566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firas kahlaoui" height="30" width="40" /></a>
 <a href="https://instagram.com/firas_kahlaouii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firas_kahlaouii" height="30" width="40" /></a>
 </p>
