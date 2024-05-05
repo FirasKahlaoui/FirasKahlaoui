@@ -1,5 +1,4 @@
-<img src="https://github.com/FirasKahlaoui/FirasKahlaoui/assets/93373607/9602dd4f-aa6f-4705-a018-65e3e33e57a7
-" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl0MG1lOHNucGpqYmI5aXk1MTY1Yzl4dzA4eXMycTZ3NDJhNmMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AHZy3FJrL9bkZqe56/giphy.gif" width="100%" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" /> </p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="50px"> Hi there, I'm Firas Kahlaoui <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="50px">
