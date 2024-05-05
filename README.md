@@ -3,7 +3,7 @@
 <h3 align="center">A passionate BigData Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirasKahlaoui&theme=" alt="FirasKahlaoui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirasKahlaoui&theme=dracula" alt="FirasKahlaoui" /></a> </p>
 
 - 🔭 I’m currently working on **Data analysis projects**
 - 🌱 I’m currently learning **Spark, Android Development**
