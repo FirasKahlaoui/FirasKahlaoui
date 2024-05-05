@@ -1,6 +1,16 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Firas Kahlaoui</h1>
-<h3 align="center">A passionate BigData Student</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" /> </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="50px"> Hi there, I'm Firas Kahlaoui <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="50px">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="30px"> A passionate BigData Student <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="30px">
+</p>
+
+---
+
+<br/>
 <p align="center">
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="auto" height="70" /></a>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="auto" height="70" /></a>
@@ -9,9 +19,6 @@
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/redhatparrot.gif" width="auto" height="70" /></a>
   </p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirasKahlaoui&theme=dracula" alt="FirasKahlaoui" /></a> </p>
 
 - 🔭 I’m currently working on **Data analysis projects**
 - 🌱 I’m currently learning **Spark, Android Development**
@@ -34,18 +41,17 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<a href="#"  style="padding-top:10;"><img src="https://cultofthepartyparrot.com/parrots/hd/phparrot.gif" width="auto" height="50" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<a><img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<a href="" ><img src="https://cultofthepartyparrot.com/parrots/hd/nodeparrot.gif" width="auto" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -57,11 +63,15 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasKahlaoui&layout=compact&theme=dracula" alt=FirasKahlaoui />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FirasKahlaoui&show_icons=true&locale=en&theme=dracula" alt="FirasKahlaoui" /></p>
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FirasKahlaoui&show_icons=true&locale=en&theme=dracula" alt="FirasKahlaoui Stats" />
+</p>
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasKahlaoui&layout=compact&theme=dracula" alt="FirasKahlaoui Top Languages" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=dracula" alt="FirasKahlaoui Streak" />
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=dracula" alt="FirasKahlaoui" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -74,5 +84,13 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FirasKahlaoui&theme=react-dark"/>
-
+</br>
+<p align="center">
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/spyparrot.gif" width="auto" height="40" /></a>
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/frenchparrot.gif" width="auto" height="40" /></a>
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/imposterparrot.gif" width="auto" height="40" /></a>
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" width="auto" height="40" /></a>
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/zombieparrot.gif" width="auto" height="40" /></a>
+    <a href=""><img src="https://cultofthepartyparrot.com/parrots/halalparrot.gif" width="auto" height="40" /></a>
+  </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
