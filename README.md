@@ -1,6 +1,7 @@
 <p align="center">
- <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Header' width='100%'/></p> 
-</p>
+ <img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Header' width='100%'/>
+</p> 
+
 
 <h1 align="center"><b>Hi , I'm Firas Kahlaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -207,3 +208,10 @@ I'm excited to connect with you and explore new possibilities together! Let's ma
 </div>
 
 <p align = "center"><a href="https://buymeacoffee.com/firaskahlaoui"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="FirasKahlaoui" /></a></p>
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+
+### Made with 💜 by [@Firas_kahlaouii](https://twitter.com/Firas_kahlaouii)
+
+### Please 🌟 this repository! It really helps!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
