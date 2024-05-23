@@ -52,7 +52,7 @@ Hello! My name is Firas Kahlaoui, a passionate and dedicated Computer Science st
 ### Always Learning:
 I believe that technology is ever-evolving, and staying updated is crucial. I strive to learn new things every day, whether it's a new programming language, a framework, or a tool that can enhance my skills.
 
-Thank you for visiting my profile! Feel free to connect with me on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) or  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
+Thank you for visiting my profile! Feel free to connect with me on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
 
 ---
 
