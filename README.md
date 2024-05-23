@@ -28,7 +28,7 @@ class Firas_Kahlaoui():
     self.username = "FirasKahlaoui";
     self.location = "Ariana, Tunisia";
     self.twitter = "@Firas_kahlaouii";
-    self.web = "https://ifiras.pages.dev/";
+    self.web = "https://firaskahlaoui.pages.dev";
   
   def __str__(self):
     return self.name
