@@ -2,9 +2,6 @@
  <img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Header' width='100%'/>
 </p> 
 
-
-<h1 align="center"><b>Hi , I'm Firas Kahlaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
 	<a href="https://github.com/FirasKahlaoui">
 		<img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
@@ -48,45 +45,6 @@ if __name__ == '__main__':
 - **Developing Web Applications.**
 
 ### Always Learning
-
----
-
-## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-Let's stay connected through various platforms:
-
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/firas-kahlaoui-b0a031253/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  FirasKahlaoui-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/Firas_kahlaouii" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  FirasKahlaoui-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:kahlaouifiras2017@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  FirasKahlaoui-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-
-I'm excited to connect with you and explore new possibilities together! Let's make meaningful connections and collaborate on exciting projects.
-
 
 ---
 
