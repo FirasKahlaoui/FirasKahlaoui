@@ -49,8 +49,6 @@ if __name__ == '__main__':
 
 ### Always Learning
 
-Thank you for visiting my profile! Feel free to connect with me on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
-
 ---
 
 ## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
