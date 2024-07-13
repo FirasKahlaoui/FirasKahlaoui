@@ -2,6 +2,9 @@
  <img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Header' width='100%'/>
 </p> 
 
+
+<h1 align="center"><b>Hi , I'm Firas Kahlaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
 	<a href="https://github.com/FirasKahlaoui">
 		<img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
@@ -33,6 +36,62 @@ class Firas_Kahlaoui():
 if __name__ == '__main__':
     me = Firas_Kahlaoui()
 ```
+
+---
+
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
+
+Hello! My name is Firas Kahlaoui, a passionate and dedicated Computer Science student specializing in Big Data. As a self-taught data analyst, I am always eager to explore new technologies and deepen my understanding of programming languages. My journey in the tech world is fueled by my curiosity and love for continuous learning.
+
+### What I Do:
+- **Analyzing Big Data:** I work with large datasets to extract meaningful insights and support data-driven decision-making. My expertise includes data cleaning, transformation, and visualization.
+- **Creating Models:** I build predictive models using various machine learning techniques to solve complex problems and improve business processes.
+- **Web Scraping:** I utilize tools like Scrapy and Selenium to collect data from websites, ensuring I have the most relevant and up-to-date information for my analyses.
+- **Developing Web Applications:** I design and develop web applications using modern frameworks and technologies, focusing on creating efficient and user-friendly solutions.
+
+### Always Learning:
+I believe that technology is ever-evolving, and staying updated is crucial. I strive to learn new things every day, whether it's a new programming language, a framework, or a tool that can enhance my skills.
+
+Thank you for visiting my profile! Feel free to connect with me on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
+
+---
+
+## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
+Let's stay connected through various platforms:
+
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/firas-kahlaoui-b0a031253/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  FirasKahlaoui-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/Firas_kahlaouii" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  FirasKahlaoui-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:kahlaouifiras2017@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  FirasKahlaoui-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+
+I'm excited to connect with you and explore new possibilities together! Let's make meaningful connections and collaborate on exciting projects.
+
 
 ---
 
