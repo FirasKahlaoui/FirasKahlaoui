@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
+## <picture><img src="https://img.icons8.com/clouds/100/000000/resume.png" width=50px></picture> **About me**
 
 Hello! My name is Firas Kahlaoui, a passionate and dedicated Computer Science student specializing in Big Data. As a self-taught data analyst, I am always eager to explore new technologies and deepen my understanding of programming languages. My journey in the tech world is fueled by my curiosity and love for continuous learning.
 
