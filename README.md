@@ -44,13 +44,11 @@ if __name__ == '__main__':
 Hello! My name is Firas Kahlaoui, a passionate and dedicated Computer Science student specializing in Big Data. As a self-taught data analyst, I am always eager to explore new technologies and deepen my understanding of programming languages. My journey in the tech world is fueled by my curiosity and love for continuous learning.
 
 ### What I Do:
-- **Analyzing Big Data:** I work with large datasets to extract meaningful insights and support data-driven decision-making. My expertise includes data cleaning, transformation, and visualization.
-- **Creating Models:** I build predictive models using various machine learning techniques to solve complex problems and improve business processes.
-- **Web Scraping:** I utilize tools like Scrapy and Selenium to collect data from websites, ensuring I have the most relevant and up-to-date information for my analyses.
-- **Developing Web Applications:** I design and develop web applications using modern frameworks and technologies, focusing on creating efficient and user-friendly solutions.
+- **Big Data Analysis:** Extracting insights from large datasets.
+- **Model Development:** Building predictive models using machine learning.
+- **Web Scraping:** Collecting data from various sources for analysis.
+- **Web Applications:** Designing user-friendly web solutions.
 
-### Always Learning:
-I believe that technology is ever-evolving, and staying updated is crucial. I strive to learn new things every day, whether it's a new programming language, a framework, or a tool that can enhance my skills.
 
 I'm always learning and eager to connect! Feel free to reach out on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
 
