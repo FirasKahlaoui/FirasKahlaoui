@@ -157,13 +157,6 @@ I'm excited to connect with you and explore new possibilities together! Let's ma
  </a>
 </div>
 </br>
-<div align="center">
-
-<a href="https://github.com/FirasKahlaoui/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FirasKahlaoui&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
 
 ---
 
