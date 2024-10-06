@@ -4,16 +4,33 @@
 
 ---
 
-## <picture><img src="https://github.com/FirasKahlaoui/icons/blob/main/images/resume.png" width=50px></picture> **About me**
+```python
+class FirasKahlaoui:
+    
+    def __init__(self):
+        self.name = "Firas Kahlaoui"
+        self.username = "FirasKahlaoui"
+        self.location = "Ariana, Tunisia"
+        self.twitter = "@firas_kahlaoui"
+        self.web = "https://firaskahlaoui.pages.dev"
+        self.about = """Hello! I'm **Firas Kahlaoui**, a passionate Computer Science student specializing in Big Data. As a data scientist, I thrive on exploring new technologies and enhancing my programming skills."""
+    
+        self.skills = [
+            "Big Data Analysis: Extracting insights from large datasets.",
+            "Model Development: Building predictive models using machine learning.",
+            "Web Scraping: Collecting data from various sources for analysis.",
+            "Web Applications: Designing user-friendly web solutions."
+        ]
+  
+    def __str__(self):
+        skills_formatted = "\n".join([f"- **{skill}**" for skill in self.skills])
+        return (f"## <picture><img src='https://github.com/FirasKahlaoui/icons/blob/main/images/resume.png' width=50px></picture> **About me**\n\n"
+                f"{self.about}\n\n### What I Do:\n{skills_formatted}")
+if __name__ == '__main__':
+    me = FirasKahlaoui()
+    print(me)
+```
 
-Hello! I'm **Firas Kahlaoui**, a passionate Computer Science student specializing in Big Data. As a data scientist, I thrive on exploring new technologies and enhancing my programming skills.
-
-### What I Do
-
-- **Big Data Analysis:** Extracting insights from large datasets.
-- **Model Development:** Building predictive models using machine learning.
-- **Web Scraping:** Collecting data from various sources for analysis.
-- **Web Applications:** Designing user-friendly web solutions.
 
 I'm always learning and eager to connect! Feel free to reach out on [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
 
