@@ -13,8 +13,8 @@ class FirasKahlaoui:
         self.location = "Ariana, Tunisia"
         self.twitter = "@firas_kahlaoui"
         self.web = "https://firaskahlaoui.pages.dev"
-        self.about = "Hello! I'm Firas Kahlaoui, a passionate Computer Science student specializing in Big Data. As a data scientist,
-                       I thrive on exploring new technologies and enhancing my programming skills."
+        self.about = "Hello! I'm Firas Kahlaoui, a passionate Computer Science student specializing in Big Data.
+                      As a data scientist, I thrive on exploring new technologies and enhancing my programming skills."
     
         self.skills = {
             "Big Data Analysis": "Extracting insights from large datasets.",
