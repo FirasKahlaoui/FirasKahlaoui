@@ -143,10 +143,10 @@ I'm excited to connect with you and explore new possibilities together! Let's ma
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img height="150" width="150" src="https://github.com/FirasKahlaoui/icons/blob/main/images/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=dark&hide_border=true&background=000000&stroke=130F40&ring=7A7ADB&fire=2234AE&currStreakLabel=7A7ADB&sideNums=D3D3D3&currStreakNum=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" />
 
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+  <img height="150" width="150" src="https://github.com/FirasKahlaoui/icons/blob/main/images/right.webp">
 </p>
 
 <div align="center">
