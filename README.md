@@ -200,9 +200,6 @@ I'm excited to connect with you and explore new possibilities together! Let's ma
 </picture>
 </div>
 
-<p align = "center"><a href="https://buymeacoffee.com/firaskahlaoui"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="FirasKahlaoui" /></a></p>
-<br>
-
 <p align="center">
 	<a href="https://github.com/FirasKahlaoui">
 		<img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" />
