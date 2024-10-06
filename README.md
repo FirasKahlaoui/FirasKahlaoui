@@ -52,26 +52,6 @@ if __name__ == '__main__':
 
 ---
 
-## 🐍 A Snake Eating my Contributions Graph
-
-<!--- snake -->
-<div align = "center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
-
 <p align="center">
  <a href="https://github.com/FirasKahlaoui">
   <img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" />
