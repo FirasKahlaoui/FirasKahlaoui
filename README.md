@@ -3,23 +3,6 @@
 </p> 
 
 
-<h1 align="center"><b>Hi , I'm Firas Kahlaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-	<a href="https://github.com/FirasKahlaoui">
-		<img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/FirasKahlaoui">
-		<img src="https://img.shields.io/github/followers/FirasKahlaoui?label=Followers" alt="firaskahlaoui" />
-	</a>
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Data+Analyst;Computer+Science+(Big+Data)+Student;JavaScript+Enthusiast;CTF+Newbie;Active+Learner/Researcher;Passionate+about+New+Technologies;Always+learning+new+things">
-  </a>
-</p>
-
-
 ```python
 class Firas_Kahlaoui():
     
@@ -39,7 +22,7 @@ if __name__ == '__main__':
 
 ---
 
-## <picture><img src="https://img.icons8.com/clouds/100/000000/resume.png" width=50px></picture> **About me**
+## <picture><img src="https://github.com/FirasKahlaoui/icons/blob/main/images/resume.png" width=50px></picture> **About me**
 
 Hello! I'm **Firas Kahlaoui**, a passionate Computer Science student specializing in Big Data. As a data scientist, I thrive on exploring new technologies and enhancing my programming skills.
 
@@ -50,7 +33,7 @@ Hello! I'm **Firas Kahlaoui**, a passionate Computer Science student specializin
 - **Web Applications:** Designing user-friendly web solutions.
 
 
-I'm always learning and eager to connect! Feel free to reach out on [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
+I'm always learning and eager to connect! Feel free to reach out on [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/github-icon.svg" width=32px>](https://github.com/FirasKahlaoui) , [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/google_chrome-icon.svg" width=28px>](https://firaskahlaoui.pages.dev/) or   [<img src="https://github.com/FirasKahlaoui/icons/blob/main/images/linkedin-tile.svg" width=28px>](https://www.linkedin.com/in/firas-kahlaoui-b0a031253/) .
 
 ---
 
@@ -219,6 +202,15 @@ I'm excited to connect with you and explore new possibilities together! Let's ma
 
 <p align = "center"><a href="https://buymeacoffee.com/firaskahlaoui"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="FirasKahlaoui" /></a></p>
 <br>
+
+<p align="center">
+	<a href="https://github.com/FirasKahlaoui">
+		<img src="https://komarev.com/ghpvc/?username=FirasKahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="FirasKahlaoui" />
+	</a>
+	<a href="https://github.com/FirasKahlaoui">
+		<img src="https://img.shields.io/github/followers/FirasKahlaoui?label=Followers" alt="FirasKahlaoui" />
+	</a>
+</p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
 
