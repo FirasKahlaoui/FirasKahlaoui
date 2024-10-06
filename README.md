@@ -15,17 +15,18 @@ class FirasKahlaoui:
         self.web = "https://firaskahlaoui.pages.dev"
         self.about = "Hello! I'm Firas Kahlaoui, a passionate Computer Science student specializing in Big Data. As a data scientist, I thrive on exploring new technologies and enhancing my programming skills."
     
-        self.skills = [
-            "Big Data Analysis: Extracting insights from large datasets.",
-            "Model Development: Building predictive models using machine learning.",
-            "Web Scraping: Collecting data from various sources for analysis.",
-            "Web Applications: Designing user-friendly web solutions."
-        ]
+        self.skills = {
+            "Big Data Analysis": "Extracting insights from large datasets.",
+            "Model Development": "Building predictive models using machine learning.",
+            "Web Scraping": "Collecting data from various sources for analysis.",
+            "Web Applications": "Designing user-friendly web solutions."
+        }
   
     def __str__(self):
-        skills_formatted = "\n".join([f"- **{skill}**" for skill in self.skills])
-        return (f"## <picture><img src='https://github.com/FirasKahlaoui/icons/blob/main/images/resume.png' width=50px></picture> **About me**\n\n"
+        skills_formatted = "\n".join([f"- {skill}: {desc}" for skill, desc in self.skills.items()])
+        return (f"## About me\n\n"
                 f"{self.about}\n\n### What I Do:\n{skills_formatted}")
+
 if __name__ == '__main__':
     me = FirasKahlaoui()
     print(me)
