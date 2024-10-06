@@ -54,7 +54,7 @@ Let's stay connected through various platforms:
 <br>
 
 <li>
-<a href="https://twitter.com/Firas_kahlaouii" target="_blank">
+<a href="https://twitter.com/Firas_kahlaoui" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  FirasKahlaoui-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
