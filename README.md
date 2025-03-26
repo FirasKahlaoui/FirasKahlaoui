@@ -28,20 +28,12 @@ if __name__ == '__main__':
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=dark&hide_border=true&background=000000&stroke=130F40&ring=7A7ADB&fire=2234AE&currStreakLabel=7A7ADB&sideNums=D3D3D3&currStreakNum=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=midnight-purple&hide_border=true" alt="FirasKahlaoui's Streak" />
+</div>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/FirasKahlaoui/">
-    <img src="https://github-readme-stats.vercel.app/api?username=FirasKahlaoui&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  </a>
-</div>
-</br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirasKahlaoui&theme=github_dark" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FirasKahlaoui&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 </br>
