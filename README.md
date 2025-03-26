@@ -10,20 +10,18 @@ class FirasKahlaoui:
     def __init__(self):
         self.name = "Firas Kahlaoui"
         self.username = "FirasKahlaoui"
-        self.location = "Ariana, Tunisia"
         self.twitter = "@firas_kahlaoui"
         self.web = "https://firaskahlaoui.pages.dev"
-        self.about = "Data-driven problem solver. Leveraging Big Data, ML, and visualization to extract actionable insights."
-        self.skills = ["Big Data Analysis", "Machine Learning", "Web Scraping", "Web Development", "Power BI Dashboards"]
+        self.about = "Data-driven problem solver. Insights from Big Data, ML, & visualization."
+        self.skills = ["Big Data", "ML", "Web Scraping", "Web Dev", "Power BI"]
 
     def __str__(self):
         skills = ", ".join(self.skills)
-        return f"**{self.name}** | Data Scientist & Developer\n\n{self.about}\n\n**Expertise:** {skills}\n\n**Connect:** 📍 {self.location} | 🔗 {self.web} | 🐦 {self.twitter} | 👤 {self.username}"
+        return f"{self.name} | Data Scientist & Dev\n{self.about}\n\nExpertise: {skills}\n\nWeb: {self.web} | Tw: {self.twitter} | User: {self.username}"
 
 if __name__ == '__main__':
     me = FirasKahlaoui()
     print(me)
-
 ```
 
 ---
