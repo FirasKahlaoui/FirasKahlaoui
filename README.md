@@ -13,38 +13,12 @@ class FirasKahlaoui:
         self.location = "Ariana, Tunisia"
         self.twitter = "@firas_kahlaoui"
         self.web = "https://firaskahlaoui.pages.dev"
-        self.about = (
-            "Hello! I'm Firas Kahlaoui, a passionate Computer Science student specializing in Big Data. "
-            "As a data scientist, I thrive on exploring new technologies and enhancing my programming skills."
-        )
+        self.about = "Data-driven problem solver. Leveraging Big Data, ML, and visualization to extract actionable insights."
+        self.skills = ["Big Data Analysis", "Machine Learning", "Web Scraping", "Web Development", "Power BI Dashboards"]
 
-        self.skills = [
-            {"Skill": "Big Data Analysis", "Description": "Extracting insights from large datasets."},
-            {"Skill": "Machine Learning", "Description": "Building and optimizing predictive models."},
-            {"Skill": "Web Scraping", "Description": "Collecting data from various online sources."},
-            {"Skill": "Web Development", "Description": "Designing user-friendly web applications."}
-        ]
-
-    def __str__(self) -> str:
-        skills_formatted = "\n".join(
-            [f"- **{skill['Skill']}**: {skill['Description']}" for skill in self.skills]
-        )
-        return (
-            f"## About Me\n\n"
-            f"{self.about}\n\n"
-            f"### Skills & Expertise:\n{skills_formatted}\n"
-            f"📍 Location: {self.location}\n"
-            f"🔗 Website: {self.web}\n"
-            f"🐦 Twitter: {self.twitter}\n"
-            f"👤 Username: {self.username}"
-        )
-
-    def display_skills(self) -> str:
-        """Returns a formatted string of skills and descriptions."""
-        return "\n".join(
-            [f"{skill['Skill']}: {skill['Description']}" for skill in self.skills]
-        )
-
+    def __str__(self):
+        skills = ", ".join(self.skills)
+        return f"**{self.name}** | Data Scientist & Developer\n\n{self.about}\n\n**Expertise:** {skills}\n\n**Connect:** 📍 {self.location} | 🔗 {self.web} | 🐦 {self.twitter} | 👤 {self.username}"
 
 if __name__ == '__main__':
     me = FirasKahlaoui()
