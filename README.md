@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/FirasKahlaoui/FirasKahlaoui/blob/main/images/github_stats.webp" width="35"><b> Github Stats </b>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirasKahlaoui&theme=midnight-purple&hide_border=true" alt="FirasKahlaoui's Streak" />
