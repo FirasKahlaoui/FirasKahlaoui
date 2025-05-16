@@ -15,7 +15,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirasKahlaoui&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-wine-92.vercel.app/api?username=FirasKahlaoui&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple" />
+
 </div>
 
 </br>
