@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://github.com/FirasKahlaoui/FirasKahlaoui/blob/main/images/profile_code.png">
+<img src="https://github.com/FirasKahlaoui/FirasKahlaoui/blob/main/images/profileCode.png">
 
 ---
 
